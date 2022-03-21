@@ -33,6 +33,8 @@
   ## Usage
 
   Confirm that all dependencies are installed and run application using ```npm run build``
+  
+  Link to Heroku application can be found [here](https://evening-bastion-03454.herokuapp.com/)
 
   ## Mock-Up
 
